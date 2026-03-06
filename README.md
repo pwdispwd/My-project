@@ -30,9 +30,3 @@
 - MySQL 数据库（如果使用的是MySQL）
 - Maven 或 Gradle（用于构建项目）
 
-### 安装步骤
-
-1. 克隆该仓库：
-   ```bash
-   git clone https://gitee.com/OoOo_1234/campus-smart-ordering-system.git
-   cd campus-smart-ordering-system
